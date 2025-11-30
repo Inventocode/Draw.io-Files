@@ -11,7 +11,7 @@
         </object>
         <object label="&lt;font&gt;UserScript&lt;/font&gt;" id="pNXp9au6tOEnFSy7jRyc-1">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#000000;strokeColor=#001DBC;opacity=10;glass=0;shadow=0;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1">
-            <mxGeometry height="400" width="330" x="410" y="80" as="geometry" />
+            <mxGeometry height="420" width="330" x="414" y="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="pNXp9au6tOEnFSy7jRyc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="bcmc&lt;div&gt;workid&lt;/div&gt;" vertex="1">
@@ -32,7 +32,7 @@
         <mxCell id="pNXp9au6tOEnFSy7jRyc-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GET&lt;div&gt;/editor/service/code&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="610" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="pNXp9au6tOEnFSy7jRyc-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="icon" vertex="1">
+        <mxCell id="pNXp9au6tOEnFSy7jRyc-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="icon&lt;div&gt;splash&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="70" x="475" y="330" as="geometry" />
         </mxCell>
         <mxCell id="pNXp9au6tOEnFSy7jRyc-14" edge="1" parent="1" source="pNXp9au6tOEnFSy7jRyc-10" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="pNXp9au6tOEnFSy7jRyc-12" value="">
